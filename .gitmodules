@@ -1,3 +1,6 @@
 [submodule "Heart-Disease-Exploratory-Data-Analysis-"]
 	path = Heart-Disease-Exploratory-Data-Analysis-
 	url = https://github.com/srivastavas08/Heart-Disease-Exploratory-Data-Analysis-.git
+[submodule "GDP-Data-Analysis"]
+	path = GDP-Data-Analysis
+	url = https://github.com/srivastavas08/GDP-Data-Analysis.git
